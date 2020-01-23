@@ -1,0 +1,10 @@
+﻿  HelloGL.cpp
+C:\Users\j013015j\Documents\OPen gl\HelloGL real\HelloGL real\HelloGL.cpp(26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\j013015j\Documents\OPen gl\HelloGL real\HelloGL real\HelloGL.cpp(27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\j013015j\Documents\OPen gl\HelloGL real\HelloGL real\HelloGL.cpp(28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\j013015j\Documents\OPen gl\HelloGL real\HelloGL real\HelloGL.cpp(29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Main.cpp
+  GLUTCallbacks.cpp
+  Generating Code...
+  LINK : C:\Users\j013015j\Documents\OPen gl\HelloGL real\Debug\HelloGL real.exe not found or not built by the last incremental link; performing full link
+  HelloGL real.vcxproj -> C:\Users\j013015j\Documents\OPen gl\HelloGL real\Debug\HelloGL real.exe
