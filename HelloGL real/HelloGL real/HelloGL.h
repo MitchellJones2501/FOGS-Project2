@@ -3,14 +3,20 @@
 #include <gl/GL.h> //OpenGL
 #include <gl/GLU.h> //OpenGL Utilities 
 #include "GL\freeglut.h" //freeglut library
+#define REFRESHRATE 16
 
 class HelloGL
 {
+
+private:
+	float rotation;
+
 public:
 	HelloGL(int argc, char* argv[]);
 	~HelloGL(void);
 	void Display();
 	void Update();
-	void DrawHS();
+	void DrawTri();
+	void DrawSqu();
 };
 
