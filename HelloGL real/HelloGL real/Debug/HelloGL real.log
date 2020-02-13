@@ -1,5 +1,5 @@
 ﻿  HelloGL.cpp
-C:\Users\j013015j\Documents\OPen gl\HelloGL real\HelloGL real\HelloGL.cpp(52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\j013015j\Documents\OPen gl\HelloGL real\HelloGL real\HelloGL.cpp(53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\j013015j\Documents\OPen gl\HelloGL real\HelloGL real\HelloGL.cpp(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-  HelloGL real.vcxproj -> C:\Users\j013015j\Documents\OPen gl\HelloGL real\Debug\HelloGL real.exe
+C:\Users\j013015j\Documents\GitHub\FOGS-Project2\HelloGL real\HelloGL real\HelloGL.cpp(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\j013015j\Documents\GitHub\FOGS-Project2\HelloGL real\HelloGL real\HelloGL.cpp(79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\j013015j\Documents\GitHub\FOGS-Project2\HelloGL real\HelloGL real\HelloGL.cpp(80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  HelloGL real.vcxproj -> C:\Users\j013015j\Documents\GitHub\FOGS-Project2\HelloGL real\Debug\HelloGL real.exe
